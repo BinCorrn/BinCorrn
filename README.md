@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Bin Ngô!
 
-<!--
-**BinCorrn/BinCorrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about embedded systems, IoT, and automotive software.
+Currently learning **AUTOSAR**, **ESP32**, and **Machine Learning**.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Embedded C / C++
+- Arduino, ESP32, STM32
+- MQTT, WebSocket, IoT Cloud
+- MATLAB, Simulink
+- AUTOSAR Classic (BSW, RTE, MCAL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- 💼 LinkedIn: [linkedin.com/in/binngo](https://linkedin.com/in/binngo)
+- 🌐 Website: [my-portfolio.com](https://www.facebook.com/binngo0106/)
+- ✉️ Email: bin.ngo@example.com
