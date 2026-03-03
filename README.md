@@ -19,6 +19,6 @@ to JLPT N5–N4).
 - Academic Good Award - Academic (4 times).
 
 ## 📫 Connect with me
-- 💼 LinkedIn: [linkedin.com/in/binngo](https://linkedin.com/in/binngo)
-- 🌐 Website: [my-portfolio.com](https://www.facebook.com/binngo0106/)
-- ✉️ Email: bin.ngo@example.com
+- LinkedIn: [linkedin.com/in/binngo](https://linkedin.com/in/binngo)
+- Facebook: [fb.com/binngo0106](https://www.facebook.com/binngo0106/)
+- Email: bincorrn@gmail.com
