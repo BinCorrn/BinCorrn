@@ -1,14 +1,18 @@
 # 👋 Hi, I'm Bin Ngô!
 
-I'm passionate about embedded systems, IoT, and automotive software.
-Currently learning **AUTOSAR**, **ESP32**, and **Machine Learning**.
+I started my university journey with challenges, reflected in a GPA of 2.0 in my first-year. Through
+continuous effort and determination, I have steadily improved and strived to become better every day.
 
-## 🚀 Skills
-- Embedded C / C++
-- Arduino, ESP32, STM32
-- MQTT, WebSocket, IoT Cloud
-- MATLAB, Simulink
-- AUTOSAR Classic (BSW, RTE, MCAL)
+## Technical Skills
+• Programming: C/C++, Matlab.
+• Tools: Proteus, Altium, Stm32CubeIDE, Matlab Simulink, Visual Studio Code.
+• Languages: English (500 TOEIC - test in the university), Japanese (Intermediate level 8.8/10 - equivalent
+to JLPT N5–N4).
+• Others: Microsoft Office, Latex, Canva, Git, Linux
+
+## Award and Certicification
+• Academic Encouragement Scholarship (5 times).
+• Academic Good Award - Academic (4 times).
 
 ## 📫 Connect with me
 - 💼 LinkedIn: [linkedin.com/in/binngo](https://linkedin.com/in/binngo)
