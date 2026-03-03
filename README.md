@@ -2,7 +2,7 @@
 I started my university journey with challenges, reflected in a GPA of 2.0 in my first-year. Through
 continuous effort and determination, I have steadily improved and strived to become better every day.
 
-# Education
+## Education
 University: University of Da Nang, University of Technology and Science (2021–2026).
 - Major: Electronics and Telecommunications
 - CPA: 3.32/4.0 (CPA: 8.08/10.0)
